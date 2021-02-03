@@ -11,4 +11,4 @@ Using Pandas, Pandas-Datarader, and Matplotlib, you will take a visual look into
 * Calculate and visualize the standard deviations of the returns
 * Write a short thesis based on the correlations between the tech stocks
 <br>
-<h3>The project I made while taking a course on the Codecademy platform</h3>
+<h3>The project I made while taking a course on the Codecademy platform.</h3>
